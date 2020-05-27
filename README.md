@@ -1,2 +1,2 @@
-# -jratervez-s
+# ujratervezes
 újratervezés projekt gyakorlás
